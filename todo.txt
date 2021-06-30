@@ -1,0 +1,6 @@
+find splits of sequence where each segment can be encoded to at least one word
+return the splits with fewest segments
+
+rank words by "commonness"/"nouniness"
+
+Find splits that can be encoded into gramatically correct sentences.

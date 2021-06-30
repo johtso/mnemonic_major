@@ -1,0 +1,149 @@
+seq: 63
+chime     chum      gem       gemma     gym       jam       jamb      jem       jimmy     sham      shame     shema     shim      shimmy   
+seq: 64
+ashur       azure       chair       char        chara       cheer       cheerio     cherry      chewer      chore       edger      
+gyro        hatchery    hedger      hoosier     hosiery     issuer      jar         jeer        jerry       jewry       jr         
+jury        sciara      share       shari       sharia      shear       sherry      shire       shore       shower      usher      
+seq: 65
+cello      chalet     challis    chile      chili      chill      chilly     cholla     gel        hatchel    jail       jello      jelly     
+jewel      joel       jolly      joule      jowl       july       scheele    shale      shallow    shawl      shell      shelley    shill     
+seq: 66
+seq: 67
+chalk       check       cheek       chic        chick       chico       chock       choke       chuck       chug        czech      
+hedgehog    hijack      jack        jig         jock        jockey      jog         joke        jug         juke        shack      
+seq: 68
+chafe      chaff      chef       chief      jaffa      java       jehovah    jiffy      jive       shave      sheaf      shiva      shove     
+seq: 69
+chap        chip        chippewa    chop        gibe        gyp         jab         jap         jeep        jib         jibe       
+seq: 70
+aches       acts        aix         ax          axe         cars        cas         case        cass        cassie      cause      
+causeway    chaos       coasts      coos        coosa       cos         coss        costs       cosy        coups       cows       
+cozy        cues        cus         cuss        echoes      echos       eggs        egos        ex          gas         gass       
+gauss       gauze       gays        gaza        gaze        geese       ghosts      gies        giza        goes        goghs      
+goos        goose       goss        guess       guests      guise       gus         guss        guys        hacks       hacksaw    
+haikus      hakes       hawks       hex         hicks       hikes       hoax        hogs        hooks       hucks       hugs       
+kass        kazoo       keas        keys        kies        kiess       kis         kiss        kiwis       kos         koss       
+ngos        oaks        ochs        okays       ox          queues      quiz        ukase       wackos      wags        wakes      
+walks       walkways    wax         weeks       whacks      whigs       wicks       wigs        woks        x           yokes      
+seq: 71
+acadia      act         acuity      acute       agate       cad         caddy       cahoot      cat         cathay      catty      
+coat        cod         coda        code        cody        coot        cot         cote        coyote      cuddy       cut        
+cutaway     egghead     equity      gad         gait        gat         gate        gateway     gatt        gaudy       get        
+getaway     ghetto      goad        goat        goatee      god         goethe      good        goody       goth        goudy      
+gout        guide       gut         guyot       haggadah    hecht       hokkaido    kat         khat        kid         kidd       
+kiddy       kit         kite        kitty       koto        kowtow      kuwait      kuwaiti     kyd         kyoto       oct        
+seq: 72
+aachen     acne       agony      aiken      aken       cain       can        cane       cannes     canoe      cayenne    cohan      cohn      
+coin       con        cone       coney      coon       county     eigen      equine     gain       gawain     ghana      going      gonia     
+goon       gown       guano      guiana     guinea     gun        gunny      guyana     gwyn       gwynn      hackney    hogan      icon      
+iguana     ikon       kahn       kanawha    kean       keen       ken        keno       kenya      khan       kin        kuhn       oken      
+seq: 73
+comma       acme        calm        cam         cameo       coma        comb        come        comma       commie      cum        
+game        gamma       goma        goyim       guam        gum         hakeem      hakim       hokum       joachim     kama       
+seq: 74
+acre       agar       agora      agra       auger      augur      cairo      car        caraway    care       carew      carry      choir     
+cora       core       coria      corps      corrie     craw       cree       crew       cro        crow       cry        cur        cure      
+curie      curio      curry      eager      ecru       egger      euchre     gar        gari       gary       gear       goer       gore      
+gray       grey       guru       hacker     hawker     hickory    hiker      hooker     hugger     jaeger     kera       korea      ochre     
+seq: 75
+aquila      calais      cali        call        calla       caul        claw        clay        clio        clue        coal       
+coil        cola        cole        collie      cool        cowl        cul         cull        eagle       equal       gael       
+gal         gala        gale        galea       gall        galley      gallia      galloway    galway      gaul        ghoul      
+gila        gill        gillie      glee        glow        glue        goal        goalie      guile       gula        gull       
+gully       hackle      haggle      heckle      hegel       igloo       kail        kale        keel        kelly       keyhole    
+kiley       kill        kilo        klee        koala       kohl        oakley      quail       quill       weekly      wiggle     
+seq: 76
+acacia     cache      cachet     cage       cash       cashew     cassia     catch      coach      couch      gage       gash       gaucho    
+gauge      geisha     gish       gouge      gush       hogwash    kach       kasha      ketch      kitsch     koch       kutch      kyushu    
+seq: 77
+cacao      cake       calk       caulk      coca       cock       coco       cocoa      cog        coke       cook       cooke      cookie    
+cuckoo     gag        gawk       gecko      geek       gewgaw     gig        gook       guck       haycock    kayak      keg        khaki     
+seq: 78
+cafe        calf        cave        coffee      cough       cove        covey       cuff        gaff        gaffe       give       
+seq: 79
+agape       aqaba       cab         cabby       cap         cape        capo        co-op       cob         cobia       coop       
+cop         cope        copy        coupe       cowboy      cub         cuba        cube        cup         gab         gaba       
+gap         gape        gib         gob         gobi        goop        guppy       hiccough    hiccup      hookup      jacobi     
+seq: 80
+eaves      eves       faas       face       fass       feasts     fees       fess       fez        fizz       foes       foss       fosse     
+fs         fuse       fuss       fuzz       hafts      halves     haves      heaves     heavies    hives      hoofs      hooves     huffs     
+ives       office     phase      vase       vass       vesey      vess       vice       views      vis        visa       vise       voice     
+seq: 81
+aphid          fad            fade           fahd           faith          fat            fatah          fate           fatty         
+fatwa          feat           fed            feed           feet           fete           feud           fiat           fifth         
+fight          fit            food           foodie         foot           haft           heavyweight    heft           oviedo        
+ovoid          photo          vat            veda           vet            veto           video          void           voodoo        
+seq: 82
+affine     avena      avenue     avon       euphony    even       fan        fanny      fauna      fawn       fen        fin        fine      
+finn       fun        funny      havana     haven      heaven     hyphen     oven       phone      phoney     phony      van        vane      
+seq: 83
+seq: 84
+affair      afro        aviary      euphoria    euphory     fair        fairway     fairy       far         fare        faro       
+farrow      fear        feria       ferry       fir         fire        fora        foray       fore        four        fourier    
+foyer       frau        fray        free        freeway     frey        freya       fry         frye        fur         furrow     
+fury        heifer      hoover      ivory       oeuvre      offer       ovary       over        pharaoh     vara        viewer     
+seq: 85
+avail      eiffel     evil       fall       falla      fallow     feel       fell       fella      fellow     fila       file       filet     
+fill       fillet     filly      flaw       flea       floe       flow       flu        flue       fly        flyway     foal       foil      
+folly      fool       foul       fowl       fuel       full       havel      hovel      oval       ovule      phyla      phyle      vale      
+valet      valley     valois     value      veal       veil       vela       vial       vila       villa      villi      viola      viyella   
+seq: 86
+seq: 87
+evacuee    fag        fake       fica       fig        fog        fogy       folk       fuck       fugue      havoc      vega       vogue     
+seq: 88
+seq: 89
+seq: 90
+abbs         abs          abuse        abyss        apc          apes         baas         baize        base         bass        
+bassi        basso        bayes        bayous       bays         bees         bes          bess         bias         bis         
+bise         biss         biz          boas         boasts       boies        boise        boos         booze        bos         
+bose         boss         boughs       bows         boys         bozo         buoys        bus          buss         buys        
+buzz         byways       ebbs         eohippus     eyepiece     heaps        hippies      hippos       hips         hobbes      
+hobbies      hobbs        hobbyists    hoboes       hobs         hoops        hopes        hops         hubs         hypes       
+ibis         ops          opus         pace         pas          paseo        pass         pasts        pause        paws        
+pays         pc           peace        peas         pease        peso         pews         piazza       piece        pies        
+pisa         piss         poise        pos          pose         poss         posse        posts        pows         powwows     
+pus          pusey        puss         pussy        webbs        webs         whips        whipsaw      whoops       wipes       
+seq: 91
+abbot      abode      apathy     bad        bade       baht       bait       bat        bath       bathe      baud       bawd       bawdy     
+bead       beat       beauty     bed        beda       bede       beet       bet        beta       beth       bid        biddy      bight     
+bit        bite       boat       body       boot       booth      bootie     booty      bout       boyhood    bud        buddha     buddy     
+butt       butte      buyout     byte       habit      obadiah    obit       opiate     pad        paddy      padua      paiute     pat       
+pate       path       pathway    patio      patty      payday     peat       pet        petty      piety      pit        pita       pith      
+pitt       pity       pod        poet       poitier    pot        potty      pout       put        putt       putty      pythia     wapiti    
+seq: 92
+apnea      ban        bane       bayonne    bean       ben        benet      benne      bennie     benny      bin        bone       bonn      
+bonney     boon       boone      boyne      bun        bunny      ebony      open       paean      pain       paine      pan        pane      
+pawn       pawnee     pen        penn       penny      peon       peony      piano      pin        pine       pion       pony       poon      
+seq: 93
+balm       bam        baum       beam       biome      boehm      boehme     bohemia    bomb       boom       bum        opium      palm      
+seq: 94
+abor         appro        bar          bari         barrie       barrio       barrow       bayer        bear         beer        
+beira        beria        berra        berry        bier         bihari       biro         birr         boar         boer        
+bohr         boor         bore         borough      bower        bowery       bra          brae         bray         brew        
+brie         brio         brouhaha     brow         bur          bureau       burr         burro        burrow       buyer       
+ebro         eyebrow      haber        hebrew       highbrow     hopper       iberia       opera        pair         par         
+para         pariah       parr         parry        payer        pear         peary        peer         peoria       perry       
+peru         pier         pierre       pirouette    poor         pore         power        prey         pro          prow        
+seq: 95
+abel        abele       abila       apollo      appeal      apple       bail        bailey      bale        bali        ball       
+ballet      ballyhoo    bel         bell        belle       bellow      belly       bialy       bile        bill        billow     
+billy       blah        bleu        bligh       blow        blue        boil        bola        bole        boll        boole      
+boule       bowel       bowl        boyle       buhl        bull        bulla       bully       bylaw       ebola       eyeball    
+hobble      hoopla      hubble      opal        opel        pail        pal         palau       pale        pall        paul       
+pauli       payola      peal        peel        pile        pill        pillow      play        plea        plough      plow       
+ploy        ply         pol         pole        polio       poll        polo        pool        powell      pull        pulley     
+seq: 96
+apache     apogee     badge      bash       batch      beach      beech      beige      bitch      bocce      boche      bosch      bosh      
+botch      budge      bush       butch      hibachi    page       paige      pasha      patch      peach      ph         piaget     pitch     
+seq: 97
+bach       back       backhoe    bag        baku       balk       beak       beck       bike       bocce      bock       bog        bogey     
+bogie      boogie     book       bookie     bouquet    buck       buckeye    bug        buggy      epic       epoch      opec       pac       
+paca       pack       peak       peck       peek       peg        pic        pica       pick       pig        piggy      pike       pique     
+seq: 98
+above      beef       beehive    behalf     bevy       biff       buff       buffet     pave       pavo       payoff     peavey     peavy     
+seq: 99
+baba        babe        babu        baby        beep        bib         bob         bobby       boob        booby       bop        
+bye-bye     hubbub      pap         papa        papaw       papaya      pappa       papua       peep        pep         pip        
+seq: 100
+adss         atheists     daisies      decease      dieses       diocese      dioceses     disease      disuse       doses       
+dossiers     dozes        dss          dusts        ethicists    hothouses    odysseus     outhouses    outsize      taoists     
