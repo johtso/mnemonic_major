@@ -1,8 +1,5 @@
-#!/usr/bin/env python
-
 import sys
 import os
-from itertools import izip
 
 from nltk.corpus import wordnet as wn
 
@@ -17,7 +14,7 @@ seq = sys.argv[1]
 
 # max_parts = int(sys.argv[2])
 
-print 'seq:', seq
+print('seq:', seq)
 # print 'max_parts:', max_parts
 
 # tree = tree_of_splits(seq, 1)
@@ -28,7 +25,7 @@ print 'seq:', seq
 def iterchunks(iterator, n):
     """Iterate returning n results at a time"""
     iterator = iter(iterator)
-    return izip(*([iterator]*n))
+    return zip(*([iterator]*n))
 
 # chunks = list(explore(tree, node_test=node_test))[0]
 # print chunks
@@ -44,5 +41,5 @@ cols = (int(width) / max_word_length) - 1
 
 for line in iterchunks(words, cols):
     for word in line:
-        print word.ljust(max_word_length),
-    print
+        print(word.ljust(max_word_length))
+    print("...")
